@@ -188,6 +188,10 @@ const CREDIT_DATA = [       // refer to dev_data/credits.txt
     "봇 리뉴얼",
     "24.10.22 ~ 25.03.12",
     "",
+    "카와라기 모모카 #1743",
+    "discord.py",
+    "24.09.20 ~ 25.03.21",
+    "",
     "",
     "",
     "------------------------",
@@ -200,9 +204,9 @@ const CREDIT_DATA = [       // refer to dev_data/credits.txt
     "",
     "Working Bots",
     "------------------------",
-    "카와라기 모모카 #1743",
+    "츠키유키 미야코 #1743",
     "discord.py",
-    "24.09.20 ~",
+    "25.03.21 ~",
     "",
     "야마다 료 #3811",
     "discord.py",
@@ -463,4 +467,3 @@ function toggleFullscreen() {
 	
 	isFullscreen ? document.exitFullscreen() : element.requestFullscreen();
 }
-
